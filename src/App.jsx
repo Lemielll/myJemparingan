@@ -1,5 +1,5 @@
 import './App.css'
-import PilihBandul from './modules/pilih-bandul/PilihBandul'
+import PilihBandul from './modules/bandul/PilihBandul'
 
 function App() {
   return (
